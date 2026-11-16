@@ -1,0 +1,87 @@
+body {
+	color:white;
+	font-size:20;	
+	background: linear-gradient(
+		to bottom,
+			#e63325,
+			#ff7e00,
+			#ffd500);
+		
+}
+
+h1 {
+	font-size:50px;
+	font-weight:bold;
+}
+
+#pageTitle {
+	color: orange;
+	text-align: center;
+	background:linear-gradient(
+		to bottom,
+			#ffffff,
+			#A9AAAE,
+			#555555,
+			#e8e8e8,
+			#777777,
+			#ffffff);
+	text-shadow: 2px 2px 4px black;
+	padding: 15px;
+}
+
+.secondPar{
+	background: linear-gradient(
+		to bottom,
+			#ffffff,
+			#A9AAAE,
+			#555555,
+			#e8e8e8,
+			#777777,
+			#ffffff);
+	border: 5px solid gray;
+	padding : 15px;
+	margin: 20px;
+}
+
+p{
+	font-size:40px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Zen Dots;
+	color:#c0c0c0;
+	text-shadow: 2px 2px 4px black;
+}
+
+.secondPar a{
+	color: red;
+	text-decoration:none;
+}
+
+p2{
+	font-size:20px;
+	font-family:Zen Dots;
+	text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
